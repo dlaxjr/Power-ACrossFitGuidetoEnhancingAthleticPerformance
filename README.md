@@ -1,2 +1,2 @@
-# Power: The Foundation of Athleticism
+# Power: A CrossFit Guide to Enhancing Athletic Performance
 
