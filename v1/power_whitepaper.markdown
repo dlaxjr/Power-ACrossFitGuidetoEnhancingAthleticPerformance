@@ -51,7 +51,7 @@ Strength (Force, N)
   |                    Optimal Power (e.g., Snatch)
   |                    /
   |                   /
-  | Max Work (e.g., Sprint)
+  |        Max Work (e.g., Sprint)
   +--------------------------------→ Work (Velocity, m/s)
 ```
 
