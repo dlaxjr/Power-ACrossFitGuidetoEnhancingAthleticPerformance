@@ -1,3 +1,0 @@
-# Chapter 11: Conclusion
-
-Power—strength × velocity—is athleticism’s foundation. CrossFit’s science, from $P = F \times v$ to 2025’s neural adaptations, drives results in wrestling, track, basketball, soccer, sprinting, and running [17, 18, 30]. The 2025 CrossFit Games’ power-focused WODs and Hinshaw’s protocols underscore this [23, 31]. With muscle for force and leanness for speed, the 8-week program equips your athletes to dominate. Embrace CrossFit’s blueprint and watch them excel.

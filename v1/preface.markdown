@@ -1,3 +1,0 @@
-# Preface
-
-This book is a comprehensive guide for school sports coaches aiming to unlock their athletes' potential through CrossFit’s power-centric training. Power, defined as strength (force) × velocity, drives performance in wrestling, track, basketball, soccer, sprinting, and running. By building muscle for force and reducing body fat for speed, CrossFit offers a proven framework to elevate your teams. Finalized as Version 1.0 in 2025, this edition includes the latest CrossFit Games insights, new research on power training, an 8-week program, and expanded chapters on sprinting and running with Chris Hinshaw’s cutting-edge protocols. With over 35 references, this guide equips you to forge stronger, faster, and more powerful athletes.

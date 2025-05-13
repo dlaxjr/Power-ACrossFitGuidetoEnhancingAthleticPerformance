@@ -1,5 +1,0 @@
-# Chapter 1: Introduction
-
-Dear Coaches, power—expressed as $P = F \times v$—is CrossFit’s cornerstone and the key to unlocking your athletes’ potential in wrestling, track, basketball, soccer, sprinting, and running. Force is strength, built through muscle acquisition, while velocity is speed, enhanced by reducing body fat. This synergy powers explosive wrestling takedowns, dynamic track throws, soaring basketball dunks, forceful soccer kicks, and blazing sprints. As of May 2025, CrossFit’s global network exceeds 11,500 affiliates, reflecting its impact, with power at its core [1].
-
-CrossFit’s mission, per founder Greg Glassman, is to enhance "work capacity across broad time and modal domains" [1, 15]. For school athletes, power is the unifying goal, merging muscle-driven strength (10–15% force increase in 8 weeks) with lean-enhanced speed (5–10% faster sprints via fat reduction) [32, 33]. Recent studies show power-focused training boosts athletic performance by 12–18% in youth [34]. This book integrates 2025 CrossFit Games insights, an 8-week plan, and Chris Hinshaw’s latest endurance protocols to elevate your athletes across diverse sports.
