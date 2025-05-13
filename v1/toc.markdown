@@ -1,0 +1,15 @@
+# Table of Contents
+
+- [Preface](#preface)
+- [1. Introduction](#chapter-1-introduction)
+- [2. Force as Strength, Velocity as Work: CrossFit's Value for School Athletics](#chapter-2-force-as-strength-velocity-as-work-crossfits-value-for-school-athletics)
+- [3. The Physics of Power: Mathematical Foundations](#chapter-3-the-physics-of-power-mathematical-foundations)
+- [4. Power Across Domains](#chapter-4-power-across-domains)
+- [5. Updates (2025)](#chapter-5-updates-2025)
+- [6. Strength and Velocity in CrossFit: Advanced Models](#chapter-6-strength-and-velocity-in-crossfit-advanced-models)
+- [7. 8-Week CrossFit Program for School Athletes](#chapter-7-8-week-crossfit-program-for-school-athletes)
+- [8. School Sports Applications](#chapter-8-school-sports-applications)
+- [9. Sprinting: Maximizing Power for Speed](#chapter-9-sprinting-maximizing-power-for-speed)
+- [10. Training for Running: Building Power Endurance](#chapter-10-training-for-running-building-power-endurance)
+- [11. Conclusion](#chapter-11-conclusion)
+- [References](#references)

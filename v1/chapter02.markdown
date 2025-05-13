@@ -1,0 +1,5 @@
+# Chapter 2: Force as Strength, Velocity as Work: CrossFit's Value for School Athletics
+
+In CrossFit, force is strength—lifting barbells, overpowering wrestlers, or dunking basketballs—developed through muscle hypertrophy, increasing muscle area by 10–15% in 8 weeks [32]. Velocity is work speed (e.g., snatches, sprints, soccer kicks), accelerated by reducing body fat, cutting sprint times by 5–10% [33]. Work ($W = F \times d$), velocity ($v = d / t$), and power ($P = F \times v$) fuse strength and speed. Without velocity, strength is static (e.g., wrestler’s grip) [20]; without strength, velocity lacks impact (e.g., weak sprint) [21].
+
+CrossFit’s refined methodology [22] is ideal for school sports. A 2024 study found combined strength and velocity training increases power output by 15% in adolescents [34]. Coaches can prioritize heavy lifts (e.g., squats) in pre-season for strength, then HIIT for velocity, peaking athletes for competition [9]. For example, a wrestler’s takedown (1103.6 W) needs muscle, while a sprinter’s start (2500 W) demands leanness, both honed via CrossFit.

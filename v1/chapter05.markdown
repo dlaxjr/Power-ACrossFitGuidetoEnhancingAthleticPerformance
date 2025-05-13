@@ -1,0 +1,3 @@
+# Chapter 5: Updates (2025)
+
+The 2025 CrossFit Games featured "Power Surge," a WOD with heavy cleans and 200m sprints, and "Endurance Edge," a 2K run with kettlebell carries, reinforcing power’s role [23]. Wrestling-inspired "Gable’s Grinder" and Hinshaw’s running events emphasize short-burst and sustained power [16]. Hinshaw states, "Power endurance defines 2025—muscle for force, leanness for speed, and aerobic capacity for recovery" [31]. New research shows youth power training with CrossFit boosts performance by 15–20% [34].
