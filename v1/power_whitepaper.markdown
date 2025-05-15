@@ -36,8 +36,8 @@ In CrossFit, the equation P = F × v can be understood through a practical lens:
 
 #### Strength and Velocity in CrossFit: A Model
 To visualize power in CrossFit, consider a force-velocity curve (see Figure 1, conceptual):  
-**High Force, Low Velocity**: Heavy deadlifts (e.g., 90% 1RM) require maximal strength but move slowly.  
-**Low Force, High Velocity**: Bodyweight movements like burpees rely on speed with minimal external load.  
+**High Strength, Low Work**: Heavy deadlifts (e.g., 90% 1RM) require maximal strength but move slowly.  
+**Low Strength, High Work**: Bodyweight movements like burpees rely on speed with minimal external load.  
 **Optimal Power**: Olympic lifts (e.g., clean and jerk) balance moderate force and velocity for peak power output.
 
 ```
