@@ -22,7 +22,7 @@ This whitepaper distills CrossFit’s principles into actionable strategies, inc
 ## The Science of Power
 
 ### Understanding Power
-Power is your ability to combine strength and speed, like exploding off the starting line or dunking a basketball. In physics, it’s defined as P = F × v, where **force** is muscle strength (e.g., lifting a weight) and **velocity** is speed (e.g., sprinting) [Youth Strength Training, 2022]. Think of power as your body’s engine: strength is the engine’s size, and speed is how fast it revs. The *CrossFit Level 1 Training Guide* calls power the "undisputed king of performance," as it drives nearly every athletic action—sprinting, jumping, lifting, and striking—making it essential for success in sports and life [CrossFit Level 1 Training Guide, 2024].
+Power is your ability to combine strength and speed, like exploding off the starting line or dunking a basketball. In physics, it’s defined as P = F × v, where **force** is muscle strength and **velocity** is speed [Youth Strength Training, 2022]. Think of power as your body’s engine: strength is the engine’s size, and speed is how fast it revs. The *CrossFit Level 1 Training Guide* calls power the "undisputed king of performance," as it drives nearly every athletic action—sprinting, jumping, lifting, and striking—making it essential for success in sports and life [CrossFit Level 1 Training Guide, 2024].
 
 CrossFit builds power by growing muscle (increasing force by 10–15% in 8 weeks) and reducing body fat (boosting sprint times by 5–10%) [Adams et al., 1992; Youth Strength Training, 2022; SpeedEndurance, 2024]. A 2024 study confirms this approach enhances power by 15% in athletes [Silva et al., 2024].
 
