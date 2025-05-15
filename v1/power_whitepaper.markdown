@@ -12,7 +12,7 @@ As an athlete, you strive to excel—whether it’s sprinting faster, jumping hi
 
 **Power** is defined as the product of force and velocity, expressed as P = F × v. CrossFit’s unique approach blends heavy lifts, high-intensity workouts, and endurance training to enhance both, making you more explosive and resilient. Recent studies show power-focused training can improve athletic performance by 12–18% [Silva et al., 2024].
 
-This whitepaper distills CrossFit’s principles into actionable strategies, including an 8-week training program, sport-specific tips, and insights from the 2025 CrossFit Games and experts like Chris Hinshaw. Whether you’re a sprinter aiming for a personal record or a wrestler seeking faster takedowns, you’ll find tools to train smarter, stay motivated, and excel.
+This whitepaper distills CrossFit’s principles into actionable strategies, including an 8-week training program, sport-specific tips, and insights from experts like Chris Hinshaw. Whether you’re a sprinter aiming for a personal record or a wrestler seeking faster takedowns, you’ll find tools to train smarter, stay motivated, and excel.
 
 ### Endnotes
 - Silva, J., Martinez, L., & Rodriguez, A. (2024). Power training in youth athletes. *Journal of Sports Science*, 12(4), 210–220. https://www.tandfonline.com
