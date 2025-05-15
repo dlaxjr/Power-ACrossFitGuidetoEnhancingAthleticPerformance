@@ -10,7 +10,7 @@ First Edition, 2025
 
 As an athlete, you strive to excel—whether it’s sprinting faster, jumping higher, or dominating your sport. The key to unlocking this potential is **power**, the combination of strength and speed that drives elite performance in wrestling, track, basketball, soccer, sprinting, running, and beyond. This whitepaper provides a science-backed, practical guide to building power using CrossFit, a training system trusted by athletes worldwide.
 
-**Power** is defined as the product of force and velocity, expressed as P = F × v. CrossFit’s unique approach blends heavy lifts, high-intensity workouts, and endurance training to enhance both, making you more explosive and resilient. Recent studies show power-focused training can improve athletic performance by 12–18% [Silva et al., 2024].
+**Power** is defined as the product of force and velocity, expressed as **P = F × v**. CrossFit’s unique approach blends heavy lifts, high-intensity workouts, and endurance training to enhance both, making you more explosive and resilient. Recent studies show power-focused training can improve athletic performance by 12–18% [Silva et al., 2024].
 
 This whitepaper distills CrossFit’s principles into actionable strategies, including an 8-week training program, sport-specific tips, and insights from experts like Chris Hinshaw. Whether you’re a sprinter aiming for a personal record or a wrestler seeking faster takedowns, you’ll find tools to train smarter, stay motivated, and excel.
 
@@ -22,17 +22,17 @@ This whitepaper distills CrossFit’s principles into actionable strategies, inc
 ## The Science of Power
 
 ### Understanding Power
-Power is your ability to combine strength and speed, like exploding off the starting line or dunking a basketball. In physics, it’s defined as P = F × v, where **force** is muscle strength and **velocity** is speed [Youth Strength Training, 2022]. Think of power as your body’s engine: strength is the engine’s size, and speed is how fast it revs. The *CrossFit Level 1 Training Guide* calls power the "undisputed king of performance," as it drives nearly every athletic action—sprinting, jumping, lifting, and striking—making it essential for success in sports and life [CrossFit Level 1 Training Guide, 2024].
+Power is your ability to combine strength and speed, like exploding off the starting line or dunking a basketball. In physics, it’s defined as **P = F × v**, where **force** is muscle strength and **velocity** is speed [Youth Strength Training, 2022]. Think of power as your body’s engine: strength is the engine’s size, and speed is how fast it revs. The *CrossFit Level 1 Training Guide* calls power the "undisputed king of performance," as it drives nearly every athletic action—sprinting, jumping, lifting, and striking—making it essential for success in sports and life [CrossFit Level 1 Training Guide, 2024].
 
 CrossFit builds power by growing muscle (increasing force by 10–15% in 8 weeks) and reducing body fat (boosting sprint times by 5–10%) [Adams et al., 1992; Youth Strength Training, 2022; SpeedEndurance, 2024]. A 2024 study confirms this approach enhances power by 15% in athletes [Silva et al., 2024].
 
 ### The Physics Behind It
-Power is work done over time: P = W / t, where work (W) is force times distance, expressed as W = F × d. Since velocity is distance over time, v = d / t, power simplifies to P = F × v. For example, a wrestler’s takedown requires strong muscles (force) and quick movement (velocity), generating high power (1103.6 W). The Appendix details calculations for moves like snatches [Science for Sport, 2025].
+Power is work done over time: **P = W / t**, where work (W) is force times distance, expressed as W = F × d. Since velocity is distance over time, v = d / t, power simplifies to P = F × v. For example, a wrestler’s takedown requires strong muscles (force) and quick movement (velocity), generating high power (1103.6 W). The Appendix details calculations for moves like snatches [Science for Sport, 2025].
 
 Power generation relies on biomechanical efficiency, particularly the core-to-extremity principle, where force originates from the hips and torso (core) and transfers to the limbs (extremity). This ensures maximum force production, as seen in Olympic lifts like the snatch or clean and jerk, where rapid hip extension drives the movement. A 2018 study found that core-to-extremity movements increase power output by 25% compared to isolation exercises, due to greater muscle recruitment and efficient force transfer [McBride et al., 2018].
 
 ### Interpreting Power in CrossFit
-In CrossFit, the equation P = F × v can be understood through a practical lens: Power can be interpreted as Strength × Work, where "Stength" means how much you can lift, and "Work" means the speed you perform an exercise, like a snatch or a clean and jerk.
+In CrossFit, the equation P = F × v can be understood through a practical lens: **Power** can be interpreted as **Strength × Work**, where "Stength" means how much you can lift, and "Work" means the speed you perform an exercise, like a snatch or a clean and jerk.
 
 #### Strength and Velocity in CrossFit: A Model
 To visualize power in CrossFit, consider a force-velocity curve (see Figure 1, conceptual):  
