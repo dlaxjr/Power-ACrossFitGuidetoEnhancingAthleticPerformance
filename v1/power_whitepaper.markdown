@@ -10,13 +10,11 @@ First Edition, 2025
 
 As an athlete, you strive to excel—whether it’s sprinting faster, jumping higher, or dominating your sport. The key to unlocking this potential is **power**, the combination of strength and speed that drives elite performance in wrestling, track, basketball, soccer, sprinting, running, and beyond. This whitepaper provides a science-backed, practical guide to building power using CrossFit, a training system trusted by athletes worldwide.
 
-**Power** is defined as the product of force (muscle strength) and velocity (speed), expressed as P = F × v. CrossFit’s unique approach blends heavy lifts, high-intensity workouts, and endurance training to enhance both, making you more explosive and resilient. With over 11,500 affiliates globally as of May 2025, CrossFit’s impact is undeniable [CrossFit, 2025; CrossFit Wikipedia, 2025]. Recent studies show power-focused training can improve athletic performance by 12–18% [Silva et al., 2024].
+**Power** is defined as the product of force and velocity, expressed as P = F × v. CrossFit’s unique approach blends heavy lifts, high-intensity workouts, and endurance training to enhance both, making you more explosive and resilient. Recent studies show power-focused training can improve athletic performance by 12–18% [Silva et al., 2024].
 
 This whitepaper distills CrossFit’s principles into actionable strategies, including an 8-week training program, sport-specific tips, and insights from the 2025 CrossFit Games and experts like Chris Hinshaw. Whether you’re a sprinter aiming for a personal record or a wrestler seeking faster takedowns, you’ll find tools to train smarter, stay motivated, and excel.
 
 ### Endnotes
-- CrossFit. (2025). CrossFit official site. https://www.crossfit.com
-- CrossFit Wikipedia. (2025). https://en.wikipedia.org/wiki/CrossFit
 - Silva, J., Martinez, L., & Rodriguez, A. (2024). Power training in youth athletes. *Journal of Sports Science*, 12(4), 210–220. https://www.tandfonline.com
 
 ---
