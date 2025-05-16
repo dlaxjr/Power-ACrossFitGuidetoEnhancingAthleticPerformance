@@ -10,8 +10,6 @@ First Edition, 2025
 
 As an athlete, you strive to excel—whether it’s sprinting faster, jumping higher, or dominating your sport. The key to unlocking this potential is **power**, the combination of strength and speed that drives elite performance in wrestling, track, basketball, soccer, sprinting, running, and beyond. This whitepaper provides a science-backed, practical guide to building power using CrossFit, a training system trusted by athletes worldwide.
 
-**Power** is defined as the product of force and velocity, expressed as **P = F × v**. CrossFit’s unique approach blends heavy lifts, high-intensity workouts, and endurance training to enhance both, making you more explosive and resilient. Recent studies show power-focused training can improve athletic performance by 12–18% [Silva et al., 2024].
-
 This whitepaper distills CrossFit’s principles into actionable strategies, including an 8-week training program, sport-specific tips, and insights from experts like Chris Hinshaw. Whether you’re a sprinter aiming for a personal record or a wrestler seeking faster takedowns, you’ll find tools to train smarter, stay motivated, and excel.
 
 ### Endnotes
@@ -23,6 +21,8 @@ This whitepaper distills CrossFit’s principles into actionable strategies, inc
 
 ### Understanding Power
 Power is your ability to combine strength and speed, like exploding off the starting line or dunking a basketball. In physics, it’s defined as **P = F × v**, where **force** is muscle strength and **velocity** is speed [Youth Strength Training, 2022]. Think of power as your body’s engine: strength is the engine’s size, and speed is how fast it revs. The *CrossFit Level 1 Training Guide* calls power the "undisputed king of performance," as it drives nearly every athletic action—sprinting, jumping, lifting, and striking—making it essential for success in sports and life [CrossFit Level 1 Training Guide, 2024].
+
+CrossFit’s unique approach blends heavy lifts, high-intensity workouts, and endurance training to enhance both, making you more explosive and resilient. Recent studies show power-focused training can improve athletic performance by 12–18% [Silva et al., 2024].
 
 CrossFit builds power by growing muscle (increasing force by 10–15% in 8 weeks) and reducing body fat (boosting sprint times by 5–10%) [Adams et al., 1992; Youth Strength Training, 2022; SpeedEndurance, 2024]. A 2024 study confirms this approach enhances power by 15% in athletes [Silva et al., 2024].
 
