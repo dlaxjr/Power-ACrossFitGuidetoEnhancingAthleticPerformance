@@ -54,12 +54,12 @@ Strength
 - **Optimal Power (e.g., Snatch)**: Balanced strength and speed—where you generate the most power.
 - **Max Work (e.g., Sprint)**: Low strength, high speed—moving quickly with lighter loads [Science for Sport, 2025].
 
-This curve helps you understand how to train for power by balancing strength and speed in your workouts.
+This curve helps you understand how to train for power by balancing strength and work in your workouts.
 
 ### Applying Science to Training
 To maximize power:
 - **Strength**: Use squats to build muscle, like adding horsepower to your engine.
-- **Speed**: Run sprints to increase velocity, like revving up your engine.
+- **Work**: Run sprints to increase velocity, like revving up your engine.
 - **Balance**: Train at 60–70% of your one-rep max (1RM) to hit peak power, boosting output by 20% [Gonzalez et al., 2025].
 
 For instance, basketball players can use snatches to enhance dunk explosiveness, combining strength and speed [Breakthrough Basketball, 2025].
@@ -117,8 +117,8 @@ A 2025 study shows this multi-domain approach improves **power endurance** by 10
 
 ### Advanced Training Models
 The **force-velocity curve** optimizes power:
-- **High Force, Low Velocity**: Deadlifts (e.g., 200 kg, 0.2 m/s) build muscle [Youth Strength Training, 2022].
-- **Low Force, High Velocity**: Double-unders (~2 m/s) require leanness [SpeedEndurance, 2024].
+- **High Strength, Low Work**: Deadlifts (e.g., 200 kg, 0.2 m/s) build muscle [Youth Strength Training, 2022].
+- **Low Strength, High Work**: Double-unders (~2 m/s) require leanness [SpeedEndurance, 2024].
 - **Optimal Power**: Snatches (60 kg, 1.5 m/s) balance both [Science for Sport, 2025].
 
 Training at 60–70% 1RM maximizes power, with lean athletes maintaining higher output (735.75 W vs. 681.17 W under fatigue) [Tricoli et al., 2005]. CrossFit also speeds up muscle signals by 25%, enhancing reaction time [Lopez et al., 2024].
@@ -183,8 +183,8 @@ Watch Games videos online for inspiration and track progress with race times [At
 
 ### Program Overview
 This 8-week CrossFit program builds **power** through a 3-on, 1-off cycle (5 days/week), progressing from strength to speed:
-- **Weeks 1–2**: Build muscle for force [Precision Nutrition, 2025].
-- **Weeks 3–4**: Enhance speed for velocity [SpeedEndurance, 2024].
+- **Weeks 1–2**: Build muscle for force, aka strength [Precision Nutrition, 2025].
+- **Weeks 3–4**: Enhance speed for velocity, aka work [SpeedEndurance, 2024].
 - **Weeks 5–8**: Optimize power with combined workouts [BarBend, 2025].
 
 A 2024 study shows this approach increases power by 15% [Silva et al., 2024]. The program is designed for athletes, with scalable workouts for beginners to advanced.
@@ -202,7 +202,7 @@ A 2024 study shows this approach increases power by 15% [Silva et al., 2024]. Th
 
 ### Progression
 - **Weeks 3–4**: Increase weights by 2.5–5% and add speed drills (e.g., 5 × 30m sprints) [Haff & Triplett, 2016].
-- **Weeks 5–8**: Combine strength and speed (e.g., WOD: 5 rounds of 5 snatches, 10 burpees, 50m sprint) [BarBend, 2025].
+- **Weeks 5–8**: Combine strength and work (e.g., WOD: 5 rounds of 5 snatches, 10 burpees, 50m sprint) [BarBend, 2025].
 - **Nutrition**: Eat protein (e.g., chicken, eggs) to support muscle growth, aiming for 1.6–2.2 g/kg of body weight daily to increase muscle synthesis by 10–15% [Precision Nutrition, 2025; Haff & Triplett, 2016].
 - **Tracking**: Log lifts, sprint times, or jump heights weekly in a journal or app [AthleteX, 2025].
 
@@ -332,7 +332,7 @@ Chris Hinshaw, a renowned CrossFit endurance coach, focuses on building aerobic 
 
 Power—Strength times Work—is CrossFit’s beating heart. By dissecting its physics, modeling its dynamics, and applying structured training, athletes can unlock their potential. This 10–12 page exploration and 8-week program offer a science-backed path to greater power, blending theory with practice. Whether you’re chasing a personal record (PR), surviving a WOD, or excelling in sports like wrestling, track, basketball, soccer, sprinting, or running, power is your ally—train it wisely [Spealler, 2008]. The 2025 CrossFit Games and recent research underscore its impact, with power gains of up to 18%, empowering you to achieve your dreams through CrossFit’s proven methods [Rodriguez et al., 2025; Hinshaw, 2025a].
 
-CrossFit effectively develops power through its diverse workouts, which incorporate both strength and speed training. By focusing on explosive movements and using moderate to heavy loads, CrossFit programs help individuals develop the ability to move large loads quickly and over longer distances. This is crucial for achieving success in CrossFit, which emphasizes the ability to perform at maximum effort with minimal rest. Here’s a more detailed look at how CrossFit builds power:
+CrossFit effectively develops power through its diverse workouts, which incorporate both strength and work training. By focusing on explosive movements and using moderate to heavy loads, CrossFit programs help individuals develop the ability to move large loads quickly and over longer distances. This is crucial for achieving success in sports, which emphasizes the ability to perform at maximum effort with minimal rest. Here’s a more detailed look at how CrossFit builds power:
 
 1. **Explosive Movements**: CrossFit workouts often include movements like snatches, cleans, power cleans, box jumps, wall balls, sled pushes, and muscle-ups, which require explosive force and speed. These movements engage multiple muscle groups simultaneously, improving overall power output and increasing heart rate for enhanced cardiovascular benefits [Adams CrossFit, 2025].
 
@@ -362,35 +362,35 @@ In essence, CrossFit’s emphasis on explosive movements, moderate to heavy load
 
 ## Appendix: Technical Calculations
 
-### Snatch (CrossFit)
+### Snatch
 - **Strength**: 70 kg (686 N)
 - **Distance**: 1.8 m
 - **Time**: 1.5 s
 - **Work**: 686 N × 1.8 m = 1234.8 J
 - **Power**: 1234.8 J / 1.5 s = 823.2 W; at 1.2 s → 1029 W
 
-### Deadlift (CrossFit)
+### Deadlift
 - **Strength**: 150 kg (1471.5 N)
 - **Distance**: 0.7 m
 - **Time**: 2 s
 - **Work**: 1471.5 N × 0.7 m = 1030.05 J
 - **Power**: 1030.05 J / 2 s = 515.025 W; at 1.5 s → 686.7 W
 
-### Clean (CrossFit)
+### Clean
 - **Strength**: 80 kg (784.8 N)
 - **Distance**: 1.2 m
 - **Time**: 1 s
 - **Work**: 784.8 N × 1.2 m = 941.76 J
 - **Power**: 941.76 J / 1 s = 941.76 W; at 0.8 s → 1177.2 W
 
-### Clean and Jerk (CrossFit)
+### Clean and Jerk
 - **Strength**: 75 kg (735.75 N)
 - **Distance**: 2 m
 - **Time**: 1.8 s
 - **Work**: 735.75 N × 2 m = 1471.5 J
 - **Power**: 1471.5 J / 1.8 s = 817.5 W; at 1.5 s → 981 W
 
-### Box Jump (CrossFit)
+### Box Jump
 - **Strength**: 75 kg athlete (735.75 N)
 - **Distance**: 0.6 m
 - **Time**: 0.5 s
@@ -420,11 +420,7 @@ Week 1: 5 reps in 6 s = 735.75 W average.
 Week 8: Same load in 5.5 s = 803.45 W (9% gain).  
 Or, new 1RM of 110 kg in 1.5 s = 1078 W (31% gain from baseline).
 
-Ancient Spartans achieved similar feats: at Thermopylae (480 BCE), their spear thrusts generated 686 W, while leaps during training produced 956 W, showcasing the explosive power that modern CrossFit athletes can aspire to through consistent training [Cartledge, 2002].
-
-This illustrates how strength and velocity gains compound into power.
-
-*Note*: Additional calculations (e.g., soccer kick, wrestling takedown) are available upon request.
+This illustrates how strength and work gains compound into power, showcasing the explosiveness energy that modern athletes can aspire to through consistent training [Cartledge, 2002].
 
 ---
 
