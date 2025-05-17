@@ -31,8 +31,8 @@ Power generation relies on biomechanical efficiency, particularly the core-to-ex
 ### Interpreting Power in CrossFit
 In CrossFit, the equation **P = F × v** can be understood through a practical lens: **Power** can be interpreted as **Strength × Work**, where "Stength" means how much you can lift, and "Work" means the speed you perform an exercise, like a snatch or a clean and jerk.
 
-#### Strength and Velocity in CrossFit: A Model
-To visualize power in CrossFit, consider a force-velocity curve (see Figure 1, conceptual):  
+#### Strength and Work in CrossFit: A Model
+To visualize power in CrossFit, consider a strength-work curve (see Figure 1, conceptual):  
 **High Strength, Low Work**: Heavy deadlifts (e.g., 90% 1RM) require maximal strength but move slowly.  
 **Low Strength, High Work**: Bodyweight movements like burpees rely on speed with minimal external load.  
 **Optimal Power**: Olympic lifts (e.g., clean and jerk) balance moderate force and velocity for peak power output.
