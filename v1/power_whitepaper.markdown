@@ -50,9 +50,9 @@ Strength
   +--------------------------------→ Work
 ```
 
-- **Max Strength (e.g., Deadlift)**: High strength, low speed—lifting heavy weights slowly.
-- **Optimal Power (e.g., Snatch)**: Balanced strength and speed—where you generate the most power.
-- **Max Work (e.g., Sprint)**: Low strength, high speed—moving quickly with lighter loads [Science for Sport, 2025].
+- **Max Strength (e.g., Deadlift)**: High strength, low work—lifting heavy weights slowly.
+- **Optimal Power (e.g., Snatch)**: Balanced strength and work—where you generate the most power.
+- **Max Work (e.g., Sprint)**: Low strength, high work—moving quickly with lighter loads [Science for Sport, 2025].
 
 This curve helps you understand how to train for power by balancing strength and work in your workouts.
 
