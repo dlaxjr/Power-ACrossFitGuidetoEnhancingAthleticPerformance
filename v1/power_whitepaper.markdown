@@ -29,7 +29,7 @@ Power is work done over time: **P = W / t**, where work (W) is force times dista
 Power generation relies on biomechanical efficiency, particularly the core-to-extremity principle, where force originates from the hips and torso (core) and transfers to the limbs (extremity). This ensures maximum force production, as seen in Olympic lifts like the snatch or clean and jerk, where rapid hip extension drives the movement. A 2018 study found that core-to-extremity movements increase power output by 25% compared to isolation exercises, due to greater muscle recruitment and efficient force transfer [McBride et al., 2018].
 
 ### Interpreting Power in CrossFit
-In CrossFit, the equation **P = F × v** can be understood through a practical lens: **Power** can be interpreted as **Strength × Work**, where "Stength" means how much you can lift, and "Work" means the speed you perform an exercise, like a snatch or a clean and jerk.
+In CrossFit, the equation **P = F × v** can be understood through a practical lens: **Power** can be interpreted as **Strength × Work**, where "Strength" means how much you can lift, and "Work" means the speed you perform an exercise, like a snatch or a clean and jerk.
 
 #### Strength and Work in CrossFit: A Model
 To visualize power in CrossFit, consider a strength-work curve (see Figure 1, conceptual):  
