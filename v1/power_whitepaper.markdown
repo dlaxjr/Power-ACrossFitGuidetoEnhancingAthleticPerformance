@@ -24,18 +24,33 @@ CrossFit’s unique approach blends heavy lifts, high-intensity workouts, and en
 CrossFit builds power by growing muscle (increasing force by 10–15% in 8 weeks) and reducing body fat (boosting sprint times by 5–10%) [Adams et al., 1992; Youth Strength Training, 2022; SpeedEndurance, 2024]. A 2024 study confirms this approach enhances power by 15% in athletes [Silva et al., 2024].
 
 ### The Physics Behind It
-Power is work done over time: **P = W / t**, where work (W) is force times distance, expressed as **W = F × d**. Since velocity is distance over time, **v = d / t**, power simplifies to **P = F × v**. For example, a wrestler’s takedown requires strong muscles (force) and quick movement (velocity), generating high power. The Appendix details calculations for moves like snatches [Science for Sport, 2025].
+Power is work done over time: **P = W / t**, where work (W) is force times distance, expressed as **W = F × d**. Since velocity is distance over time, **v = d / t**, power simplifies to **P = F × v**. For example, a wrestler’s takedown requires strong muscles (force) and quick movement (velocity), generating high power (1103.6 W). The Appendix details calculations for moves like snatches [Science for Sport, 2025].
 
 Power generation relies on biomechanical efficiency, particularly the core-to-extremity principle, where force originates from the hips and torso (core) and transfers to the limbs (extremity). This ensures maximum force production, as seen in Olympic lifts like the snatch or clean and jerk, where rapid hip extension drives the movement. A 2018 study found that core-to-extremity movements increase power output by 25% compared to isolation exercises, due to greater muscle recruitment and efficient force transfer [McBride et al., 2018].
 
 ### Interpreting Power in CrossFit
-In CrossFit, the equation **P = F × v** can be understood through a practical lens: **Power** can be interpreted as **Strength × Work**, where "Strength" means how much you can lift, and "Work" means the speed you perform an exercise, like a snatch or a clean and jerk.
+In CrossFit, the equation **P = F × v** can be understood through a practical lens: **Power** can be interpreted as **Strength × Work**, where **Strength** replaces force, meaning the ability to exert force (e.g., how much you can lift, akin to muscle strength or a lift’s load in CrossFit), and **Work** is redefined as "work capacity across broad time and modal domains," a CrossFit-specific concept referring to the ability to perform and sustain physical tasks across various durations (short, medium, long) and types of movements (modal domains like lifting, running, or gymnastics).
+
+#### Components of Work in CrossFit
+In this training-focused interpretation, **Work**—defined as work capacity across broad time and modal domains—can be broken down into components that athletes can target to enhance their power:
+
+1. **Aerobic Capacity**: The ability to sustain efforts over time and recover between high-intensity bouts, crucial for longer WODs (e.g., 5K rows) and maintaining performance across rounds (e.g., in "Fran"). Aerobic capacity supports sustained power output and efficient recovery, enabling athletes to perform consistently across broad time domains. Train this through steady-state cardio (e.g., 20–60 minute rows) and intervals (e.g., 5 × 800m runs at 85% effort with 75 s rest [Hinshaw, 2025a]).
+
+2. **Anaerobic Capacity**: The ability to produce high power in short bursts, essential for explosive movements like snatches (981 W) and sprints. Develop this with high-intensity intervals (e.g., 10 × 100m sprints at 90% effort with 90 s rest [Hinshaw, 2025a]).
+
+3. **Movement Efficiency**: Technical proficiency in diverse movements (e.g., snatches, box jumps, kettlebell swings), which minimizes energy waste and sustains work capacity across modal domains. Improve this through skill practice, drills, and mobility work (e.g., daily stretching to enhance lift efficiency [Glassman, 2002]).
+
+4. **Mental Resilience**: The mental toughness to push through fatigue and maintain focus across varied challenges. Build this with mental strategies like visualization and controlled breathing (e.g., inhale for 4 seconds, exhale for 4 seconds [Hinshaw, 2025b]) and training under fatigue.
+
+5. **Recovery Capacity**: The ability to recover quickly within and between workouts, enabling sustained work capacity. Enhance this through aerobic training, active recovery (e.g., easy pedaling in Air Bike intervals [BoxRox, 2025]), and lifestyle practices like sleep and stretching (e.g., 8–9 hours of sleep, 10 min stretching [Precision Nutrition, 2025]).
+
+By training these components, athletes can maximize their work capacity, thereby enhancing power (**P = Strength × Work**) across broad time and modal domains.
 
 #### Strength and Work in CrossFit: A Model
 To visualize power in CrossFit, consider a strength-work curve (see Figure 1, conceptual):  
 **High Strength, Low Work**: Heavy deadlifts (e.g., 90% 1RM) require maximal strength but move slowly.  
 **Low Strength, High Work**: Bodyweight movements like burpees rely on speed with minimal external load.  
-**Optimal Power**: Olympic lifts (e.g., clean and jerk) balance moderate force and velocity for peak power output.
+**Optimal Power**: Olympic lifts (e.g., clean and jerk) balance moderate strength and work for peak power output.
 
 ```
 Strength
@@ -59,7 +74,7 @@ This curve helps you understand how to train for power by balancing strength and
 ### Applying Science to Training
 To maximize power:
 - **Strength**: Use squats to build muscle, like adding horsepower to your engine.
-- **Work**: Run sprints to increase velocity, like revving up your engine.
+- **Work**: Run sprints to enhance work capacity, like revving up your engine.
 - **Balance**: Train at 60–70% of your one-rep max (1RM) to hit peak power, boosting output by 20% [Gonzalez et al., 2025].
 
 For instance, basketball players can use snatches to enhance dunk explosiveness, combining strength and speed [Breakthrough Basketball, 2025].
@@ -116,7 +131,7 @@ CrossFit trains **power** across different durations, making you versatile:
 A 2025 study shows this multi-domain approach improves **power endurance** by 10–12% [Rodriguez et al., 2025]. Wrestlers benefit from short bursts, while soccer players gain from sustained efforts [Brisebois et al., 2018].
 
 ### Advanced Training Models
-The **force-velocity curve** optimizes power:
+The **strength-work curve** optimizes power:
 - **High Strength, Low Work**: Deadlifts (e.g., 200 kg, 0.2 m/s) build muscle [Youth Strength Training, 2022].
 - **Low Strength, High Work**: Double-unders (~2 m/s) require leanness [SpeedEndurance, 2024].
 - **Optimal Power**: Snatches (60 kg, 1.5 m/s) balance both [Science for Sport, 2025].
@@ -332,7 +347,7 @@ Chris Hinshaw, a renowned CrossFit endurance coach, focuses on building aerobic 
 
 Power—Strength times Work—is CrossFit’s beating heart. By dissecting its physics, modeling its dynamics, and applying structured training, athletes can unlock their potential. This 10–12 page exploration and 8-week program offer a science-backed path to greater power, blending theory with practice. Whether you’re chasing a personal record (PR), surviving a WOD, or excelling in sports like wrestling, track, basketball, soccer, sprinting, or running, power is your ally—train it wisely [Spealler, 2008]. The 2025 CrossFit Games and recent research underscore its impact, with power gains of up to 18%, empowering you to achieve your dreams through CrossFit’s proven methods [Rodriguez et al., 2025; Hinshaw, 2025a].
 
-CrossFit effectively develops power through its diverse workouts, which incorporate both strength and work training. By focusing on explosive movements and using moderate to heavy loads, CrossFit programs help individuals develop the ability to move large loads quickly and over longer distances. This is crucial for achieving success in sports, which emphasizes the ability to perform at maximum effort with minimal rest. Here’s a more detailed look at how CrossFit builds power:
+CrossFit effectively develops power through its diverse workouts, which incorporate both strength and speed training. By focusing on explosive movements and using moderate to heavy loads, CrossFit programs help individuals develop the ability to move large loads quickly and over longer distances. This is crucial for achieving success in CrossFit, which emphasizes the ability to perform at maximum effort with minimal rest. Here’s a more detailed look at how CrossFit builds power:
 
 1. **Explosive Movements**: CrossFit workouts often include movements like snatches, cleans, power cleans, box jumps, wall balls, sled pushes, and muscle-ups, which require explosive force and speed. These movements engage multiple muscle groups simultaneously, improving overall power output and increasing heart rate for enhanced cardiovascular benefits [Adams CrossFit, 2025].
 
@@ -362,35 +377,35 @@ In essence, CrossFit’s emphasis on explosive movements, moderate to heavy load
 
 ## Appendix: Technical Calculations
 
-### Snatch
+### Snatch (CrossFit)
 - **Strength**: 70 kg (686 N)
 - **Distance**: 1.8 m
 - **Time**: 1.5 s
 - **Work**: 686 N × 1.8 m = 1234.8 J
 - **Power**: 1234.8 J / 1.5 s = 823.2 W; at 1.2 s → 1029 W
 
-### Deadlift
+### Deadlift (CrossFit)
 - **Strength**: 150 kg (1471.5 N)
 - **Distance**: 0.7 m
 - **Time**: 2 s
 - **Work**: 1471.5 N × 0.7 m = 1030.05 J
 - **Power**: 1030.05 J / 2 s = 515.025 W; at 1.5 s → 686.7 W
 
-### Clean
+### Clean (CrossFit)
 - **Strength**: 80 kg (784.8 N)
 - **Distance**: 1.2 m
 - **Time**: 1 s
 - **Work**: 784.8 N × 1.2 m = 941.76 J
 - **Power**: 941.76 J / 1 s = 941.76 W; at 0.8 s → 1177.2 W
 
-### Clean and Jerk
+### Clean and Jerk (CrossFit)
 - **Strength**: 75 kg (735.75 N)
 - **Distance**: 2 m
 - **Time**: 1.8 s
 - **Work**: 735.75 N × 2 m = 1471.5 J
 - **Power**: 1471.5 J / 1.8 s = 817.5 W; at 1.5 s → 981 W
 
-### Box Jump
+### Box Jump (CrossFit)
 - **Strength**: 75 kg athlete (735.75 N)
 - **Distance**: 0.6 m
 - **Time**: 0.5 s
@@ -421,6 +436,8 @@ Week 8: Same load in 5.5 s = 803.45 W (9% gain).
 Or, new 1RM of 110 kg in 1.5 s = 1078 W (31% gain from baseline).
 
 This illustrates how strength and work gains compound into power, showcasing the explosiveness energy that modern athletes can aspire to through consistent training [Cartledge, 2002].
+
+*Note*: Additional calculations (e.g., soccer kick, wrestling takedown) are available upon request.
 
 ---
 
